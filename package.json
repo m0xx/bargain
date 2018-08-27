@@ -1,5 +1,5 @@
 {
-  "name": "kijiji",
+  "name": "bargains-utils",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,6 +17,8 @@
     "request": "^2.83.0"
   },
   "devDependencies": {
+    "memwatch-next": "^0.3.0",
+    "nock": "^9.0.28",
     "tap-spec": "^4.1.1",
     "tape": "^4.8.0"
   }
